@@ -1,49 +1,57 @@
-👋 ¡Hola! Soy Michelle Castro
-📊 Analista de Datos con Inteligencia Artificial
-Soy Analista de Datos con formación en Inteligencia Artificial , con conocimientos en SQL, MySQL, Python, Excel, Power BI, Databricks, bases de datos e inteligencia artificial aplicada al análisis de datos .
+# 👋 ¡Hola! Soy Michelle Castro  
+### 📊 Analista de Datos con Inteligencia Artificial
 
-Tengo habilidades para organizar, analizar e interpretar información con el propósito de generar datos útiles que apoyen la toma de decisiones.
+¡Bienvenido/a a mi perfil de GitHub! Soy Analista de Datos con formación en Inteligencia Artificial y sólidos conocimientos en *SQL, MySQL, Python, Excel, Power BI, Databricks* y bases de datos aplicadas al análisis analítico.
 
-Me caracterizo por mi responsabilidad, pensamiento analítico, capacidad de aprendizaje y disposición para desarrollar nuevas habilidades .
+Tengo experiencia y habilidades para organizar, analizar e interpretar grandes volúmenes de información con el objetivo de generar insights útiles que respalden la toma de decisiones estratégicas. Me caracterizo por mi responsabilidad, pensamiento analítico, capacidad de aprendizaje continuo y adaptabilidad a nuevos retos tecnológicos.
 
-🛠️ Tecnologías y herramientas
-🐍 Pitón
-🗄️ MySQL / SQL
-📊 Excel
-📈 Power BI
-☁️ Databricks
-🤖 Inteligencia Artificial
-🗃️ Bases de datos
-🚀 Proyecto Integrador
-🎯 Plataforma de Apuestas Deportivas
-Como parte de mi formación en Análisis de Datos con Inteligencia Artificial , desarrolló un proyecto integrador enfocado en una plataforma de apuestas deportivas .
+---
 
-En este proyecto trabajé con datos relacionados con las apuestas deportivas y apliqué conocimientos de análisis de datos para obtener información relevante.
+### 🛠️ Tecnologías y Herramientas
 
-Mis principales actividades fueron:
+- *Lenguajes & Análisis:* 🐍 Python | 🗄️ SQL / MySQL  
+- *Visualización & BI:* 📈 Power BI | 📊 Excel  
+- *Plataformas & Cloud:* ☁️ Databricks  
+- *Especialización:* 🤖 Inteligencia Artificial | 🗃️ Gestión de Bases de Datos  
 
-Recopilé y organicé datos relacionados con las apuestas deportivas.
-Analicé la información para identificar patrones y comportamientos.
-Utilicé SQL para consultar y obtener información relevante de la base de datos.
-Apliqué mis conocimientos de análisis de datos a una problemática de negocio.
-Generé información útil para apoyar la toma de decisiones.
-Conocimientos integrados de SQL, bases de datos e inteligencia artificial en un proyecto práctico.
-🎓 Formación
-Bootcamp – Betek
-Análisis de Datos con Inteligencia Artificial Medellín, Colombia | 2026
+---
 
-Bachiller Académico
-Institución Educativa Kennedy Medellín, Colombia | 2011
+### 🚀 Proyecto Integrador: Plataforma de Apuestas Deportivas
 
-📂 Sobre mi GitHub
-En este espacio comparto mi proceso de aprendizaje, ejercicios y trabajos relacionados con el análisis de datos, programación y herramientas de inteligencia artificial .
+Como parte de mi formación en *Análisis de Datos con IA, desarrollé un proyecto integrador enfocado en el análisis analítico y de negocio para una **Plataforma de Apuestas Deportivas*.
 
-Mi objetivo es aplicar mis conocimientos para transformar datos en información útil y continuar fortaleciendo mis habilidades en el área de análisis de datos.
+#### 🎯 Actividades Principales:
+- *Extracción y Organización:* Recopilación y estructuración de datos sobre operaciones y usuarios de apuestas deportivas.
+- *Análisis Exploratorio:* Identificación de patrones de comportamiento, tendencias e indicadores clave de uso.
+- *Consultas Avanzadas:* Uso de *SQL* para consultar y extraer información estratégica desde la base de datos.
+- *Enfoque de Negocio:* Transformación de datos en información procesable para respaldar decisiones tácticas.
+- *Integración Tecno-Analítica:* Aplicación conjunta de bases de datos, herramientas analíticas y modelos de Inteligencia Artificial en un entorno real.
 
-📫 Contacto
-📍 Medellín, Colombia
+---
 
-💼 LinkedIn: https://www.linkedin.com/in/michelle-castro-a017262b1/ 
-Correo: michellecastro250920@gmail.com
+### 🎓 Formación Académica
 
-¡Gracias por visitar mi perfil!
+- *Bootcamp en Análisis de Datos con Inteligencia Artificial*  
+  BeTek | Medellín, Colombia (2026)
+
+- *Bachiller Académico*  
+  Institución Educativa Kennedy | Medellín, Colombia (2011)
+
+---
+
+### 📂 Sobre este GitHub
+
+En este espacio comparto mi proceso de aprendizaje constante, proyectos prácticos, repositorios de código y ejercicios aplicados en analítica de datos, programación y soluciones con inteligencia artificial.
+
+Mi meta es continuar aplicando metodologías analíticas para transformar datos en valor estratégico y fortalecer mis competencias en el ecosistema de Data & AI.
+
+---
+
+### 📫 Contacto
+
+- 📍 *Ubicación:* Medellín, Colombia  
+- 💼 *LinkedIn:* [Michelle Castro](https://www.linkedin.com/in/michelle-castro-a017262b1/)  
+- 📧 *Correo Electrónico:* michellecastro250920@gmail.com  
+
+---
+¡Gracias por visitar mi perfil! 🚀
